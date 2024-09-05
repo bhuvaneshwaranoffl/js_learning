@@ -1,0 +1,15 @@
+single line comments
+multi line comments
+
+
+ the line or words that will not print in the output // better comments will make code simple
+
+ // single line comments
+
+ /*
+ .......................
+ ......................
+ multi line comments
+ .......................
+ .......................
+ */

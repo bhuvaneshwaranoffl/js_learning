@@ -1,0 +1,33 @@
+
+
+today we are going to learn the java script:
+
+first 
+
+Variables
+
+for variable declaratio we can decalre theree
+
+var:
+ {
+    var a =10;
+}
+console.log(a)  // 10 will be print 
+
+
+const :
+{
+    const a =10;
+}
+console.log(a)  //const value the value cannot be changed again 
+
+
+let :  {
+    let a =10;
+}
+console.log(a)  // thrw an error because here the a is in the local and the call is in global:
+
+var a = 10
+var b = 20 
+
+console.log(a+b) // the output will be 30 :

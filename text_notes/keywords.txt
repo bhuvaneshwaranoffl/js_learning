@@ -1,0 +1,5 @@
+keywords are predefined keywords like
+
+var let fun  if else 
+
+we can use keywords as variables 
